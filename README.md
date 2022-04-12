@@ -1,5 +1,5 @@
 # Project of battery-health-evaluation
-This project includes code and battery data related to Zhongwei Deng et al., "Battery health evaluation using a short random charging segment". 
+This project includes code and battery data related to Zhongwei Deng et al., "Battery health evaluation using a short random segment of constant current charging". 
 
 # Datasets
 In this study, four types of batteries are investigated, namely, LiNixCoyAl1−x−yO2 (NCA), LiNixMnyCo1−x−yO2 (NMC), LiFePO4 (LFP), and a blend of NMC and LiCoO2 (NMC-LCO). The dataset of NMC-LCO is contributed by Hawaii Natural Energy Institute (HNEI), and the other three are contributed by Sandia National Laboratories (SNL). The raw datasets of batteries come from [BatteryArchive](https://www.batteryarchive.org), which is a website to present battery data in a uniform format. People can download the battery datasets from the website or find it in the [Release](https://github.com/TengMichael/battery-health-evaluation/releases) of this project. 
